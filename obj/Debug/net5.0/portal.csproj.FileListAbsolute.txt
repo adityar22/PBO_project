@@ -1,0 +1,16 @@
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.exe
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.deps.json
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.runtimeconfig.json
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.runtimeconfig.dev.json
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.dll
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\ref\portal.dll
+F:\Visual Studio\Project\PBO\portal\bin\Debug\net5.0\portal.pdb
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.csprojAssemblyReference.cache
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.AssemblyInfoInputs.cache
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.AssemblyInfo.cs
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.dll
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\ref\portal.dll
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.pdb
+F:\Visual Studio\Project\PBO\portal\obj\Debug\net5.0\portal.genruntimeconfig.cache
